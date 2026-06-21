@@ -2,9 +2,11 @@
 
 Welcome to the Pavlov VR Blueprint & Asset Pool.
 
-This repository is a collection of Blueprints, assets, systems, and example content that I created and used throughout my Pavlov VR tutorials, custom gamemodes, and Unreal Engine projects. As I move away from active UE5/Pavlov VR development on the channel, I wanted to make these resources publicly available for anyone who may find them useful.
+This repository is a collection of Blueprints, assets, systems, and example content that I created and used throughout my Pavlov VR tutorials, custom gamemodes, and Unreal Engine projects. As I move away from active UE5/Pavlov VR development on the YouTube channel, I wanted to make these resources publicly available for anyone who may find them useful.
 
 Whether you are learning how to build custom Pavlov VR content, experimenting with Unreal Engine Blueprints, or looking for a starting point for your own gamemode ideas, feel free to download, modify, and use anything here.
+
+https://www.youtube.com/@MaJerati
 
 ## Purpose of This Repository
 
