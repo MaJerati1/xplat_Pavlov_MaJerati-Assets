@@ -44,6 +44,8 @@ Some files may be polished and ready to use, while others may be experimental, u
 9. Copy assets from the UGC folder(s) into your UGC folder
 10. Modify and use the asset as you want!
 
+Video Tutorial: https://www.youtube.com/watch?v=cOGymN_qWXA
+
 These assets are intended to be flexible starting points, not locked-down finished products.
 
 ## Intended Audience
