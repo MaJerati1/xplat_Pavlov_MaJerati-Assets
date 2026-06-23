@@ -31,12 +31,16 @@ This repository may include:
 
 Some files may be polished and ready to use, while others may be experimental, unfinished, or intended mainly as learning references.
 
-## How to Use
+## How to Use / Installation
 
 1. Download or clone the repository.
 2. Review the folders and included assets.
-3. Import or migrate the assets into your own Unreal Engine/Pavlov VR project as needed.
-4. Modify, expand, or rebuild the systems however you like.
+3. Extract the file to a location you will remember
+4. Open the folder called "xplat_Pavlov_Majerati-Assets
+5. Copy the folder(s) you want into your UGC using the OS File manager (File Explorer, Finder, Files)
+6. Open your UnrealEngine Pavlov project and navigate to your UGC folder
+7. You should see the folder(s) you copied in your UGC directory
+8. Modify, expand, or rebuild the systems however you like.
 
 These assets are intended to be flexible starting points, not locked-down finished products.
 
