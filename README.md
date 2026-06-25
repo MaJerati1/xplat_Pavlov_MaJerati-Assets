@@ -38,13 +38,13 @@ Some files may be polished and ready to use, while others may be experimental, u
 3. Review the folders and included assets.
 4. Open the folder called "xplat_Pavlov_Majerati-Assets"
 5. Open the folder(s) you want to copy assets from using OS File manager (File Explorer, Finder, Files)
-6. Copy the UGCXXXXXXXX folder(s) to the Plugins folder of your Pavlov Modkit Installation
+6. Copy the UGCXXXXXXXX folder(s) to the Content folder of your Pavlov Modkit Installation
 7. Launch the Pavlov.uproject from the Modkit Install location
-8. Expand your UGC folder in the Engine and look for the new UGC folders.
-9. Copy assets from the UGC folder(s) into your UGC folder
-10. Modify and use the asset as you want!
+8. Expand your Content folder in the Engine and look for the new UGC folders.
+9. Migrate assets from the Content folder into your UGC folder
+10. Do not open the assets from the content folder directly
+11. Modify and use the asset as you want!
 
-Video Tutorial: https://www.youtube.com/watch?v=cOGymN_qWXA
 
 These assets are intended to be flexible starting points, not locked-down finished products.
 
